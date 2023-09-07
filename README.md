@@ -1,5 +1,5 @@
-### Hi there 👋
-# 💫 About Me:
+
+# 💫 Hello there 👋:
 <br>🚀 Welcome to Ziqweb 🌐<br><br>👋 About Us:<br>Ziqweb is at the forefront of innovation in the tech industry. We're passionate about crafting cutting-edge software solutions, pushing the boundaries of technology, and solving complex challenges for our clients worldwide.<br><br>🌟 Our Expertise:<br>🔷 Software Development<br>🔷 Web & Mobile App Development<br>🔷 Cloud Computing & DevOps<br>🔷 AI & Machine Learning<br>🔷 Cybersecurity<br>🔷 Data Analytics<br><br>👨‍💻 Our Team:<br>Meet our talented team of developers, engineers, and tech enthusiasts. Together, we're dedicated to creating exceptional software products that make a difference.<br><br>📚 Explore Our Projects:<br>Discover the open-source projects, libraries, and tools we've created and contributed to the tech community. Feel free to explore, collaborate, and share your feedback!<br><br>📫 Connect With Us:<br>Let's connect! Feel free to reach out for collaboration, questions, or just to say hello. We're here to foster a vibrant tech community and share our knowledge.<br><br>🔗 Follow us for the latest tech updates and insights. Let's code the future together! <br><br><br>
 
 
